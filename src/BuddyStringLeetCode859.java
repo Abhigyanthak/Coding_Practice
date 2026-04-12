@@ -1,4 +1,4 @@
-public class BuddyStringLeetCode859 {
+ public class BuddyStringLeetCode859 {
     public static void main(String args []){
        String s ="aaaaaaabc";
        String gaol = "aaaaaaacb";
