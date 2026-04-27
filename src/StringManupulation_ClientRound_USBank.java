@@ -1,7 +1,7 @@
 public class StringManupulation_ClientRound_USBank {
     public static void main(String args []){
-        String s = "My [name{ is( Abhiyan. I) am} a Java] Developer";
-        //output = My name is Abhiyan. I am a Java Developer[{()}]
+        String s = "My [name{ is( Abhigyan. I) am} a Java] Developer";
+        //output = My name is Abhigyan. I am a Java Developer[{()}]
         StringBuilder brackets = new StringBuilder();
         StringBuilder text = new StringBuilder();
         for(char c : s.toCharArray()){
